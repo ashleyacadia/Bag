@@ -2,7 +2,7 @@ package Bag;
 
 /**
  * This class represents a bag as an array of items inside it. 
- * @author Ashley Crawford 
+ * @author Ashley C 
  *
  */
 
