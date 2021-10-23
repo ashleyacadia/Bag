@@ -1,7 +1,7 @@
 package Bag;
 /**
  * This class represents a bag as a double linked list of items. 
- * @author Ashley Crawford 
+ * @author Ashley C
  *
  */
 import java.util.*;
